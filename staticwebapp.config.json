@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "route": "/index.html",
+      "rewrite": "/taskpane.html"
+    },
+    {
+      "route": "/",
+      "rewrite": "/taskpane.html"
+    }
+  ]
+}
